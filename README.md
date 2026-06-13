@@ -1,6 +1,6 @@
  🎵 AI Music Generation Using Deep Learning
 
- 📌 Project Overview
+ 📌 Project Overview :
 This project demonstrates an AI-based music generation system using deep learning techniques.
 The model is trained on MIDI music files and generates new original music sequences.
 
@@ -35,4 +35,4 @@ Open output/ai_music.mid in MuseScore or play ai_music.wav using any media playe
 AI-generated original music in MIDI & WAV format.
 
 👩‍💻Author:
-Purnima Gangwar
+-Purnima Gangwar
