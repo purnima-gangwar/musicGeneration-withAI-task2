@@ -1,4 +1,4 @@
-# 🎵 AI Music Generation Using Deep Learning
+# PROJECT : AI MUSIC GENERATION 
 
 ## 📌 Project Overview :
 This project demonstrates an AI-based music generation system using deep learning techniques.
