@@ -1,6 +1,6 @@
- 🎵 AI Music Generation Using Deep Learning
+# 🎵 AI Music Generation Using Deep Learning
 
- 📌 Project Overview :
+## 📌 Project Overview :
 This project demonstrates an AI-based music generation system using deep learning techniques.
 The model is trained on MIDI music files and generates new original music sequences.
 
