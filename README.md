@@ -35,3 +35,4 @@ Open output/ai_music.mid in MuseScore or play ai_music.wav using any media playe
 AI-generated original music in MIDI & WAV format.
 
 ## 👩‍💻Author: Purnima Gangwar
+Thank you!
