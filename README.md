@@ -20,7 +20,7 @@ musicGeneration-withAI/
 - train.py     → Model training script
 - generate.py  → Music generation script
 
- ## How to Run the Project
+ ## How to Run the Project:
 
  1. Train the Model bash
  python train.py
