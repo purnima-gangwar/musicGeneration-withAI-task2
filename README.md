@@ -12,7 +12,7 @@ The model is trained on MIDI music files and generates new original music sequen
 - MuseScore
 - MIDI & WAV formats
 
- ##  Project Structure:
+ ##  Project Structure
 musicGeneration-withAI/
 - data/        → Training MIDI files
 - model/       → Trained neural network model
